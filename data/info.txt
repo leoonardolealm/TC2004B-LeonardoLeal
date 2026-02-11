@@ -1,0 +1,25 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Leonardo Leal
+Matrícula: A01199225
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Estoy tomando este curso debido a que quería llevarlo durante el primer periodo de mi cuarto semestre en la carrera de Ingeniería en ciencia de datos y matemáticas
+
+¿Qué espero aprender?
+Espero poder aprender a utilizar las herrmientas de ciencia de datos para poder resolver problemas empresariales, por ejemplo, un aumento en la rotación del personal, o mejorar el tiempo de entrega de un porducto
+
+Herramientas que ya conozco:
+- Python
+- R 
+- Mathlab
+- Minitab
+- Excel
+- C++
+
+Herramientas nuevas para mí:
+- SQL
+- Power BI
+- Machine Learning
