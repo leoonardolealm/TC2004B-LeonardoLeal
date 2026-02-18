@@ -30,3 +30,17 @@ TC2004B-TuNombre/
 
 - Email: A01199225@tec.mx
 - GitHub: [@leoonardoleam](https://github.com/leoonardolealm)
+
+
+## Setup Local
+
+### Requisitos
+- Python 3.8+
+- Git
+
+### Instalación
+
+#### 1. Clonar repositorio
+```bash
+git clone https://github.com/leoonardolealm/TC2004B-LeonardoLeal.git
+cd TC2004B-LeonardoLeal
